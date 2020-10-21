@@ -588,7 +588,7 @@ dist_od_summary <- ma_od_lowinc_top5 %>%
 #   mode = "driving",
 #   dep_date = "2020-10-20",
 #   dep_time = "09:00:00", # 5am UTC = 9am EST
-#   key = "AIzaSyBbMZ0c7Rdrs1OGn8_2RgCnhQN1dKNOlYM"
+#   key = "INSERT_GOOGLE_API_KEY"
 # )
 # 
 # dr_tbl <- data.frame(dr_matrix)
@@ -603,7 +603,7 @@ tr_matrix <- gmapsdistance(
   mode = "transit",
   dep_date = "2020-10-20",
   dep_time = "09:00:00", # 5am UTC = 9am EST
-  key = "AIzaSyBbMZ0c7Rdrs1OGn8_2RgCnhQN1dKNOlYM"
+  key = "INSERT_GOOGLE_API_KEY"
 )
 
 tr_tbl <- data.frame(tr_matrix)
