@@ -1,0 +1,25 @@
+variable,meaning
+muni_id,Unique Municipality ID
+muni_name,Municipality Name
+popest_2010,Census 2010 Population Estimate
+popest_2019,Census 2019 Population Estimate
+emp_vltl,Employment Volatility Score
+unemp_avg_rate,Average Summer 2020 Unemployment Rate
+unemp_rate_change,Summer 2020 Unemployment Rate Change
+jobs_tot,Total Jobs
+jobs_nocolg,Jobs without College Degree
+jobs_lowinc_pc,"Low Income Jobs, percentage"
+jobs_nonwhite_pc,Non-White jobs percentage
+inc_pcap,Avg Per Capita Income
+inc_pcap_me,Avg Per Capita Income Margin of Error
+hu_tot,Total Housing Units
+hu_tot_me,"Total Housing Units, Margin of Error"
+hu_oo,Owner Occupied Housing Units
+hu_oo_me,"Owner Occupied Housing Units, Margin of Error"
+hu_ro,Renter Occupied Housing Units
+hu_ro_me,"Renter Occuped Housing Units, Margin of Error"
+hu_crowding,Percent of Crowded Housing Units: >1 persons per habitable room
+covid_tot_cases,Total Covid-19 cases
+covid_pc_pv,Percent Positive Covid-19 Cases
+covid_rel_change,Relative Change in Covid-19 Cases
+geometry,Geometry Shape
