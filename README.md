@@ -1,2 +1,2 @@
-# ma-unemployment
-Studying the Pandemic induced Unemployment in Massachusetts
+# A State of Being
+## Studying Covid-19's Effect on Community Vulnerability in Massachusetts
